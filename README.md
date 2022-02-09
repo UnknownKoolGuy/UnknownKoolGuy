@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UnknownKoolGuy
 - 👀 I’m interested in WebDev and internet
 - 🌱 I’m currently learning PHP/Javascript
-- 💈  I might work on vidlii.com
+- 📹 I might work on vidlii.com
 - 📫 How to reach me: DON'T
 
 <!---
